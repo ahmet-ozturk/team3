@@ -4,6 +4,11 @@ public class C01_ahmet {
         System.out.println("");
         System.out.println("");
         System.out.println("");
+
+        System.out.println("4. satır");
+        System.out.println("5. satır");
+        System.out.println("6. satır");
+
     }
 
 
